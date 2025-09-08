@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My background in studio art informs my desire to create web applications that are visually-engaging and purposeful.
+
 - 🔭 I’m currently working on a diary app to document writing sessions!
 - 🌱 As of now, I'm learning Firebase user authentication and database management!
 
