@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With a background in studio art, I bring a strong eye for design, composition, and creativity into application development, ensuring my projects are both functional and visually engaging. I'm passionate about exploring and experimenting with open-source AI platforms, integrating them into projects that push creativity and functionality.
+I'm Dylan - a sophomore pursuing Computer Science.
+
+With a background in studio art, I bring a strong eye for design, composition, and creativity into application development, ensuring my UIs are both functional and visually engaging. I'm passionate about exploring and experimenting with open-source AI platforms, integrating them into projects that push creativity and functionality.
 
 - 🔭 I’m currently working on a diary app to document writing sessions. I'm learning Firebase user authentication and database management along the way!
 - 🔭 Inspired by my own research methods, I built a web tool that scrapes Wikipedia sites and summarises the sources used! I learned about ethical web scraping practices, and enhancing LLM implementation using Langchain and FAISS tools.
