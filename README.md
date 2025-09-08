@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **DylanKane17/DylanKane17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My background in studio art informs my desire to create web applications that are visually-engaging and purposeful.
+With a background in studio art, I bring a strong eye for design, composition, and creativity into application development, ensuring my projects are both functional and visually engaging. I'm passionate about exploring and experimenting with open-source AI platforms, integrating them into projects that push creativity and functionality.
 
 - 🔭 I’m currently working on a diary app to document writing sessions. I'm learning Firebase user authentication and database management along the way
 
