@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a diary site for writing sessions!
+- 🔭 I’m currently working on a diary app to document writing sessions!
 - 🌱 As of now, I'm learning Firebase user authentication and database management!
 
 <h3 align="left">Languages and Tools:</h3>
