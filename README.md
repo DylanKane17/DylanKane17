@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dylan, a current sophomore pursuing Computer Science. I built a video game in 10th grade, realised I loved coding, and have been learning ever since.
+I'm Dylan, a current sophomore pursuing Computer Science. I built a video game in 10th grade, realised I loved programming, and have been learning as much as I can about it ever since.
 
 With a background in studio art, I bring a strong eye for design, composition, and creativity into application development, ensuring my UIs are both functional and visually engaging. I'm passionate about exploring and experimenting with open-source AI platforms, integrating them into projects that push creativity and functionality.
 
